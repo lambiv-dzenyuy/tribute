@@ -1,0 +1,59 @@
+*{
+    box-sizing: content-box;
+    
+}
+body{
+    margin: 0;
+    background-color: #eee;
+}
+#main{
+    
+    font-family: sans-serif, Georgia, 'Times New Roman', Times, serif;
+    margin-top: 0;
+    padding: 0;
+}
+#title{
+    text-align: center;
+    font-size: 40pt;
+}
+header{
+    text-align: center;
+}
+#img-div{
+    background-color: white;
+    padding: 2rem;
+    margin: auto 2rem auto 2rem;
+    align-content: center;
+}
+#image{
+    height: 60%vw;
+    display: block;
+    width: 80%;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 2rem;
+   margin-bottom: 2rem;
+    
+    
+}
+#img-caption,h3{
+    text-align: center;
+}
+.life{
+    
+    display: table;
+    box-sizing: 70%vw;
+    margin: 3rem auto 3rem auto ;
+}
+li{
+    margin: .75rem auto .75rem auto;
+}
+.hint{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1rem;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 0;
+}
